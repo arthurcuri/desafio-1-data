@@ -46,7 +46,7 @@ O banco de dados **AdventureWorks** representa uma empresa fictícia de comérci
 1. **Clonar o Repositório**:
    - Clone este repositório para o seu ambiente local usando o comando:
      ```bash
-     git clone https://github.com/seuusuario/adventureworks-desafio.git
+     git clone https://github.com/arthurcuri/desafio-1-data
      ```
 
 2. **Importar o Banco de Dados**:
