@@ -56,4 +56,8 @@ O banco de dados **AdventureWorks** representa uma empresa fictícia de comérci
    - Utilize os arquivos `.sql` para executar  as queries utilizadas neste desafio.
    - As queries podem ser executadas diretamente no MySQL ou através de uma ferramenta como o HeidiSQL, Workbench, etc.
 
+## Contato
+
+Arthur Curi Kramberger - [arthur1curi@gmail.com](mailto:arthur1curi@gmail.com)
+
 
